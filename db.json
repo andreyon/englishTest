@@ -1,58 +1,58 @@
 { "verbs" :
 [{ 
 	"id" : "1",
-	"Base" : "arise", 		
-	"Past-simple" :	"arose",
-	"Past-Participle" : "arisen"
+	"base" : "arise", 		
+	"pastSimple" :	"arose",
+	"pastParticiple" : "arisen"
 
 },
 { 
 	"id" : "2",
-	"Base" : "awake", 		
-	"Past-simple" :	"awoke",
-	"Past-Participle" : "awoken"
+	"base" : "awake", 		
+	"pastSimple" :	"awoke",
+	"pastParticiple" : "awoken"
 
 },
 { 
 	"id" : "3",
-	"Base" : "be", 		
-	"Past-simple" :	"was/were",
-	"Past-Participle" : "been"
+	"base" : "be", 		
+	"pastSimple" :	"was",
+	"pastParticiple" : "been"
 
 },
 { 
 	"id" : "4",
-	"Base" : "bear", 		
-	"Past-simple" :	"bore",
-	"Past-Participle" : "born(e)"
+	"base" : "bear", 		
+	"pastSimple" :	"bore",
+	"pastParticiple" : "born(e)"
 
 },
 { 
 	"id" : "5",
-	"Base" : "beat", 		
-	"Past-simple" :	"beat",
-	"Past-Participle" : "beaten"
+	"base" : "beat", 		
+	"pastSimple" :	"beat",
+	"pastParticiple" : "beaten"
 
 },
 { 
 	"id" : "6",
-	"Base" : "become", 		
-	"Past-simple" :	"became",
-	"Past-Participle" : "become"
+	"base" : "become", 		
+	"pastSimple" :	"became",
+	"pastParticiple" : "become"
 
 },
 { 
 	"id" : "7",
-	"Base" : "begin", 		
-	"Past-simple" :	"began",
-	"Past-Participle" : "begun"
+	"base" : "begin", 		
+	"pastSimple" :	"began",
+	"pastParticiple" : "begun"
 
 },
 { 
 	"id" : "8",
-	"Base" : "bend", 		
-	"Past-simple" :	"bent",
-	"Past-Participle" : "bent"
+	"base" : "bend", 		
+	"pastSimple" :	"bent",
+	"pastParticiple" : "bent"
 
 }]
 }
